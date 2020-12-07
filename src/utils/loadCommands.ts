@@ -2,7 +2,7 @@ import FClient from './../lib/FClient'
 
 export default function load(client: FClient, dir: String, command: String){
     try{
-        const props = require(`./commands/${dir}/${command}`)
+        const props = require(`./../commands/${dir}/${command}`)
         if(props.init){
             props.init(client)
         }
@@ -12,6 +12,6 @@ export default function load(client: FClient, dir: String, command: String){
         });
         return false
     }catch(err){
-        return console.log(`Error: Unable to load command: ${command}. Skipping...`)
+        return console.log(`Error: Unable to load command: ${command}.\n\n${err}\n\nSkipping...`)
     }
 }

@@ -12,7 +12,11 @@ Listed below are the changes made to the Finnick bot.
 - Command Handler
 - Event Handler
 - Ready Event
-- Ping command for testing
+- Ping command
+- Debug Event
+- Error Event
+- Warn Event
+
 
 
 ## Version 0.0.0 - 12/7/20
