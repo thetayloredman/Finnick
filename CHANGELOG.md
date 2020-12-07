@@ -1,7 +1,7 @@
 # Finnick's Changelog
 Listed below are the changes made to the Finnick bot.
 
-## Version 0.0.1
+## Version 0.0.1 - 12/7/20
 
 ### Added
 
