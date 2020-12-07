@@ -1,0 +1,23 @@
+{
+  "name": "finnick",
+  "version": "0.0.1",
+  "description": "A Multipurpose Discord Bot.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "tsc;node dist/index.js",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperMidnightFox/Finnick.git"
+  },
+  "author": "MidnightFox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeveloperMidnightFox/Finnick/issues"
+  },
+  "homepage": "https://github.com/DeveloperMidnightFox/Finnick#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
