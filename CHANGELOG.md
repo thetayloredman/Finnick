@@ -11,6 +11,8 @@ Listed below are the changes made to the Finnick bot.
 - Added FClient with an Collection of Commands, Events and Schedules for future features
 - Command Handler
 - Event Handler
+- Ready Event
+- Ping command for testing
 
 
 ## Version 0.0.0 - 12/7/20
