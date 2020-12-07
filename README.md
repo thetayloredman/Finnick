@@ -16,3 +16,13 @@ To install and run Finnick You must...
 - Have a Discord account as well as an Bot Application for the Bot
 - Common Sense 😃
 
+You can install it by doing these steps:
+
+1. Go to the directory where you want to bot should be stored ( In my case the Project's Folder )
+2. Open the Terminal and do `git clone https://github.com/DeveloperMidnightFox/Finnick.git`
+3. Once you see a folder called Finnick go ahead and go to the directory and do `npm i` in order to install the dependcies
+4. Go to the `.env-example` file and rename it to `.env` and inside that file you would put the token of the bot which you can find in the Discord Developer Portal 
+
+## Features
+
+Coming Soon...
