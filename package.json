@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/DeveloperMidnightFox/Finnick#readme",
   "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.11.4",
     "nodemon": "^2.0.6"
   }
 }
