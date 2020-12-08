@@ -1,3 +1,6 @@
+// Credit to [thetayloredman (BadBoyHaloCat)](https://github.com/thetayloredman) for
+// writing [ProtoBot](https://github.com/thetayloredman/ProtoBot) which was used as
+// inspiration for this file.
 import FClient from '@lib/FClient'
 import type Command from '@lib/interfaces/Command'
 import { Message, MessageEmbed, MessageReaction, User } from 'discord.js'

@@ -1,3 +1,6 @@
+// Credit to [thetayloredman (BadBoyHaloCat)](https://github.com/thetayloredman) for
+// writing [ProtoBot](https://github.com/thetayloredman/ProtoBot) which was used as
+// inspiration for this file.
 import { Client, Collection, ClientOptions } from 'discord.js';
 import Command from './interfaces/Command';
 

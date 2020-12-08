@@ -8,10 +8,11 @@ Listed below are the changes made to the Finnick bot.
 - Command Interface
 - ( WIP ) Help Command
 - Test Command
+- Added Badboyhalocat's Credits since it was used as an reference
 
 ### Changed
 
-- Instead of Mentioning the path of where is FClient you can do '@lib/FClient' instead!
+- Instead of Mentioning the path of where is FClient you can do `@lib/FClient` instead!
 - Default prefix to `!!`
 - TS Config ( Baseurl and path )
 

@@ -26,3 +26,9 @@ You can install it by doing these steps:
 ## Features
 
 Coming Soon...
+
+## Credits
+
+Thank you to [thetayloredman \(BadBoyHaloCat\)](https://github.com/thetayloredman) for writing [ProtoBot](https://github.com/thetayloredman/ProtoBot) which was used as inspiration for this project.
+
+Files that were inspired by ProtoBot will show a header.
