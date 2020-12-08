@@ -1,7 +1,7 @@
-import KClient from './../../lib/FClient'
+import FClient from './../../lib/FClient'
 import { Message, MessageEmbed } from 'discord.js'
 
-exports.run = async(client: KClient, message: Message) => {
+exports.run = async(client: FClient, message: Message) => {
     await message.delete()
     const msg = message.channel.send("Pinging...")
     const embed = new MessageEmbed()
@@ -17,6 +17,7 @@ exports.run = async(client: KClient, message: Message) => {
 
 exports.help = {
     name:"ping",
+    category:"Info",
     description:"Ping Pong",
     aliases: ["latency"]
 }

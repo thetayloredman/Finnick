@@ -1,7 +1,8 @@
 import { Client, Collection, ClientOptions } from 'discord.js';
+import Command from './interfaces/Command';
 
 export default class FClient extends Client{
-    public commands: Collection<unknown, unknown>;
+    public commands: Collection<unknown, Command>;
     public aliases: Collection<unknown, unknown>;
     public schedules: {};
     public constructor(options: ClientOptions){
