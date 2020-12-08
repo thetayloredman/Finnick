@@ -6,10 +6,18 @@ Listed below are the changes made to the Finnick bot.
 ### Added
 
 - Command Interface
+- ( WIP ) Help Command
+- Test Command
 
 ### Changed
 
 - Instead of Mentioning the path of where is FClient you can do '@lib/FClient' instead!
+- Default prefix to `!!`
+- TS Config ( Baseurl and path )
+
+### Updated
+
+- Mongoose 5.11.4 => 5.11.5
 
 ## Version 0.0.1 - 12/7/20
 
